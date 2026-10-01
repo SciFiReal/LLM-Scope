@@ -1,0 +1,5 @@
+textual>=1.0
+rich>=13.7
+psutil>=5.9
+requests>=2.31
+nvidia-ml-py>=12.560
