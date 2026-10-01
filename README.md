@@ -14,9 +14,9 @@
 └─────────────────────────────────────────────────────────┘
 ```
 
-![screenshot](docs/screenshot.svg)
+![screenshot](docs/screenshot.png)
 
-![引擎详情页](docs/screenshot_detail.svg)
+![引擎详情页](docs/screenshot_detail.png)
 
 ## 特性
 
